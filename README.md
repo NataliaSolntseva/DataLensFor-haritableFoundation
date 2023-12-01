@@ -48,6 +48,8 @@
      - Построение чартов, в том числе на основе двух датасетов
       
 **Благодарственное письмо от имени фонда**: [лежит здесь](https://disk.yandex.ru/i/nwWdM7uD0v6avg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://disk.yandex.ru/i/PMvZI7jIUzEklg)
  
 
 
