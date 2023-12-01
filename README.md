@@ -50,5 +50,9 @@
 **Благодарственное письмо от имени фонда**: [лежит здесь](https://disk.yandex.ru/i/nwWdM7uD0v6avg)
 
 
+![Благодарственное_Арифметика_Добра](https://github.com/NataliaSolntseva/DataLensForCharitableFoundation/assets/107438073/bcc58507-f84f-4f2c-86bf-cbc218d021d2)
+
+
+
 
 
