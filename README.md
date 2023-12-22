@@ -50,6 +50,15 @@
      - Выбор типа вузализаций, отражающих основную деятельность фонда
      - Создание дополнительных вычисляемых полей для построения визуализаций
      - Построение чартов, в том числе на основе двух датасетов
+   
+**Примеры визуализаций дашборда:**
+
+![image](https://github.com/NataliaSolntseva/DataLensForCharitableFoundation/assets/107438073/3ff5f530-43c0-4bcc-851e-03afa2a5a05f)
+
+![image](https://github.com/NataliaSolntseva/DataLensForCharitableFoundation/assets/107438073/e19bf57a-e30f-4f12-b9ef-bbb3818f203e)
+
+![image](https://github.com/NataliaSolntseva/DataLensForCharitableFoundation/assets/107438073/5129711d-c3b5-44c4-8796-fece8d4279a3)
+
       
 **Благодарственное письмо от имени фонда**: 
 
